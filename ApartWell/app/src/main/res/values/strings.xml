@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ApartWell</string>
+    <string name="usernameTextView">Username</string>
+    <string name="passwordTextView">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="sign_up_button">Sign Up!</string>
+    <string name="login">Login!</string>
+    <string name="main_title">Welcome to ApartWell!</string>
+    <string name="firstNameTextView">First Name</string>
+    <string name="lastNameTextView">Last Name</string>
+    <string name="emailTextView">E-mail\nAddress</string>
+    <string name="contactTextView">Contact (+91)</string>
+    <string name="back_button">Back</string>
+    <string name="done_button">Done</string>
+    <string name="empty_error">Fill in all the fields!</string>
+    <string name="nextButton">Next</string>
+    <string name="incorrectPassword">The password entered is incorrect</string>
+    <string name="missingUsername">This username doesn\'t exist</string>
+    <string name="profileText">Profile</string>
+    <string name="complaintsText">Complaints</string>
+    <string name="bookingsText">Bookings</string>
+    <string name="booking_id">Booking ID :</string>
+    <string name="facility">Facility :</string>
+    <string name="status">Status :</string>
+    <string name="date">Date :</string>
+    <string name="time">Time :</string>
+    <string name="duration_hrs">Duration (hrs) :</string>
+    <string name="new_booking">New Booking</string>
+    <string name="create_booking">Create Booking</string>
+    <string name="register_complaint">Register Complaint</string>
+    <string name="description">Description :</string>
+    <string name="comments">Comments :</string>
+    <string name="complaint_id">Complaint ID :</string>
+    <string name="urgent">Urgent :</string>
+    <string name="new_complaint">New Complaint</string>
+    <string name="yes_switch">YES</string>
+    <string name="no_Switch">NO</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="apartwell_at_your_service">ApartWell at your Service</string>
+    <string name="username">Username :</string>
+    <string name="name">Name :</string>
+    <string name="phone">Phone :</string>
+    <string name="edit">Edit</string>
+    <string name="edit_your_info">Edit your Info</string>
+    <string name="email_id">Email ID :</string>
+    <string name="noticeboard">Noticeboard</string>
+    <string name="covid_guidelines">COVID Guidelines</string>
+    <string name="april_13_2021_4_00_pm">April 13, 2021 4:00 PM</string>
+    <string name="body_notice1">• Don\'t forget the basics of good hygiene • Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water. This eliminates germs including viruses that may be on your hands. • Avoid touching your eyes, nose and mouth. Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth.</string>
+    <string name="timings">Morning Timings: 8 AM : 9 AM \nEvening Timings: 8 PM : 9 PM</string>
+    <string name="new_gym_timings">New Gym Timings</string>
+    <string name="april_14_2021_1_00_pm">April 14 2021 1:00 PM</string>
+    <string-array name="facility_Array">
+        <item>Badminton</item>
+        <item>Tennis</item>
+        <item>Table Tennis</item>
+        <item>Community Hall</item>
+    </string-array>
+</resources>
